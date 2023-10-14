@@ -12,8 +12,8 @@ global.APIKeys = {
 
 global.namabot = "ANIA BOTZ"
 global.namaowner = "𝑫𝑬𝑭 𝑹𝑬𝑨𝑳𝑳"
-global.packname = "ANIA BOTZ"
-global.author = 𝑫𝑬𝑭 𝑹𝑬𝑨𝑳𝑳" 
+global.packname = ANIA BOTZ
+global.author = 𝑫𝑬𝑭 𝑹𝑬𝑨𝑳𝑳
 global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + ANIA BOTZ
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
